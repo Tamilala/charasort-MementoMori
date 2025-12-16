@@ -131,16 +131,15 @@ dataSet[dataSetVersion].characterData = [
       school: ["Arius"]
     }
   },
-  //--npc
   {
     name: "Kakehashi Subaru",
     img: "subaru.jpg",
     opts: {
       school: ["Arius"],
-      NPC: true,
       notyetGlobal: true
     }
   },
+  //--npc
   {
     name: "Tachiki Maia",
     img: "maia.jpg",
@@ -730,23 +729,22 @@ dataSet[dataSetVersion].characterData = [
       school: ["RedWinter"]
     }
   },
-  //--npc
   {
     name: "Miyoshi Takane",
     img: "takane.jpg",
     opts: {
-      school: ["RedWinter"],
-      NPC: true
+      school: ["RedWinter"]
     }
   },
   {
     name: "Aramaki Yakumo",
     img: "yakumo.jpg",
     opts: {
-      school: ["RedWinter"],
-      NPC: true
+      school: ["RedWinter"]
     }
   },
+  //--npc
+  
 
   //Shanhaijing
   {
